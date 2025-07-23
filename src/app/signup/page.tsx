@@ -15,7 +15,7 @@ export default function SignupPage() {
         <div className="relative min-h-screen bg-[#f9f9f9] flex  flex-col items-center justify-center overflow-hidden">
            <img src="/Group2.png" alt="hexagon" className="absolute top-0 left-240 w-376.5px h-75 
            "></img>
-            <img src="/Group 3.png" alt="hexagon" className="absolute top-115 left-65 w-376.5px h-75 -scale-x-100 -scale-y-100"></img> 
+            <img src="/Group 3.png" alt="hexagon" className="absolute top-100 left-0 w-500.5px h-200 "></img> 
 
             {/* ===== Background Hexagons ===== */}                                     
 

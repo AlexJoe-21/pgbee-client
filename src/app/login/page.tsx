@@ -12,7 +12,7 @@ export default function LoginPage() {
     <div className="min-h-screen bg-[#f9f9f9] flex items-center justify-center">
       <img src="/Group2.png" alt="hexagon" className="absolute top-0 left-240 w-376.5px h-75 
            "></img>
-            <img src="/Group 3.png" alt="hexagon" className="absolute top-115 left-65 w-376.5px h-75 -scale-x-100 -scale-y-100"></img> 
+            <img src="/Group2.png" alt="hexagon" className="absolute top-110 left-75 w-376.5px h-75 -scale-x-100 -scale-y-100"></img> 
 
             {/* ===== Background Hexagons ===== */}                                     
 
